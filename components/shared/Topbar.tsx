@@ -9,7 +9,7 @@ function Topbar (){
             href="/"
             className="flex items-center gap-4"
             >
-                <Image 
+                <img
                 src="/assets/logo.svg"
                 alt="Logo"
                 height={28}
