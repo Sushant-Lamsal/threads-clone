@@ -30,15 +30,14 @@ function Topbar (){
                                 width={24}
                                 height={24}
                                 />
-                            </div>
                             <OrganizationSwitcher
                             appearance={{
                                 elements: {
                                     organizationSwitcherTrigger :
                                     "py-2 px-4"
                                 }
-                            }}
-                            />
+                            }}/>
+                            </div>
                         </SignOutButton>
                     </SignedIn>
                 </div>
